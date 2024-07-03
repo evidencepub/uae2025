@@ -1,15 +1,15 @@
 ---
 title: "About"
-bg: clrnew
-color: about
+bg: neuro
+color: clrnew
 fa-icon: info-circle
-iconclr: '#428bca'
-titleclr: '#428bca'
+iconclr: neuro
+titleclr: neuro
 ---
 
-# A hackathon for increasing MRI accessibility
+# NeuroLibre Day
 
-### 2-3 May 2024
+### 27 September 2024
 
 <p style ="text-align: center; font-weight: bold; font-size:24px;"> We organized MRathon 2024 in collaboration with the <a href="https://ezymri-nerdfest.sciencesconf.org/" style="color:blue;"> ezyMRI NerdFest </a>, focusing on the increasing the accessibility of MRI through open-source and vendor-neutral pulse sequence programming.</p>
 

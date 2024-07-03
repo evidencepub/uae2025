@@ -37,6 +37,7 @@ colors:
   nwclr:        '#C1DFF0'
   clrnew: '#ffffff'
   party: '#1c1419'
+  neuro: '#8b0000'
 
 kramdown:
   auto_ids:  false
