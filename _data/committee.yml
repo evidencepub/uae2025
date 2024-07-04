@@ -5,25 +5,18 @@ people:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Huang Shaoying"
-    image:  shao.png
-    affiliation: SUTD Singapore
-  - name: "Le Thu Thao"
-    image:  ltt.jpeg
-    affiliation: National Heart Centre Singapore
-  - name: "Mathieu Boudreau"
-    image:  MathieuBoudreau.jpg
-    affiliation: École Polytechnique de Montréal
-  - name: "Jane Abdo"
-    image:  jabdo.jpg
-    affiliation: École Polytechnique de Montréal
-    researchgate: #
   - name: "Nikola Stikov"
     image:  NikolaStikov.jpg
     affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
     twitter: https://twitter.com/Stikov
     linkedin: #
     researchgate: #
+  - name: "Pierre Lune Bellec"
+    image:  bellec.jpg
+    affiliation: Universite de Montréal
+  - name: "Patrick Bermudez"
+    image:  bermudez.jpg
+    affiliation: McGill University
 speakers:
   # - name: "Adrienne Campbell-Washburn"
   #   image:  AdrienneCampbellWashburn.jpg
