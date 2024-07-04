@@ -30,116 +30,72 @@ speakers:
   #   affiliation: National Institutes of Health
   #   twitter: #
   #   linkedin: #
-  - name: "Maxim Zaitsev"
-    image:  mz.jpg
-    affiliation: University of Freiburg
+  - name: "Alan Evans"
+    image:  evans.jpg
+    affiliation: McGill University
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Nadia Blostein"
-    image:  NadiaBlostein.jpg
-    affiliation: École Polytechnique de Montréal
+  - name: "Aoki Shigeki"
+    image:  shigeki.jpg
+    affiliation: Juntendo University Tokyo
     twitter: #
     linkedin: #
-  - name: "Michael Lustig"
-    image:  lustig.jpg
-    affiliation: UC Berkeley
+    researchgate: #
+  - name: "Peter Jezzard"
+    image:  jezzard.jpg
+    affiliation: University of Oxford
     twitter: #
-    linkedin: #    
+    linkedin: #
+    researchgate: #
+  - name: "Bas Rokers"
+    image:  rokers.jpg
+    affiliation: NYU Abu Dhabi
+    twitter: #
+    linkedin: #
+    researchgate: #    
+  - name: "Masaaki Hori"
+    image:  hori.jpg
+    affiliation: Juntendo University
+    twitter: #
+    linkedin: #
+    researchgate: #    
+  - name: "Ordan Chukaliev"
+    image:  ordan.jpg
+    affiliation: UKIM Skopje
+    twitter: #
+    linkedin: #
+  - name: "Valentina Gecevska"
+    image:  gecevska.jpg
+    affiliation: UKIM Skopje
+    researchgate: #    
+  - name: "Peter Bandettini"
+    image:  pband.jpg
+    affiliation: National Institute of Mental Health
+    twitter: #
+    linkedin: #
+    researchgate: #
+  - name: "Sonja Topuzovska"
+    image:  topuz.jpg
+    affiliation: UKIM Skopje
+  - name: "Aleksandar Skeparovski"
+    image:  skeparov.jpg
+    affiliation: UKIM Skopje
   - name: "Nikola Stikov"
     image:  NikolaStikov.jpg
     affiliation: École Polytechnique de Montréal
-  - name: "Mathieu Boudreau"
-    image:  MathieuBoudreau.jpg
-    affiliation: École Polytechnique de Montréal
+  - name: "Pierre Lune Bellec"
+    image:  bellec.jpg
+    affiliation: Universite de Montréal
+  - name: "Patrick Bermudez"
+    image:  bermudez.jpg
+    affiliation: McGill University
+  - name: "J.B. Poline"
+    image:  jbp.jpg
+    affiliation: McGill University
   - name: "Agah Karakuzu"
     image:  AgahKarakuzu.jpg
     affiliation: École Polytechnique de Montréal
-  - name: "Sophie Schauman"
-    image:  sophie.png
-    affiliation: Karolinska Institutet
-    twitter: #
-    linkedin: #
-  - name: "Rita G. Nunes"
-    image:  rn.jpg
-    affiliation: Universidade de Lisboa
-    twitter: #
-    linkedin: #
-  - name: "Tiago Fernandes"
-    image:  tiagoo.jpg
-    affiliation: Universidade de Lisboa
-    twitter: #
-    linkedin: #
-  - name: "Peder Larson"
-    image:  larson.png
-    affiliation: UCSF
-    twitter: #
-    linkedin: #
-  # - name: "Krishna Nayak"
-  #   image:  kn.jpg
-  #   affiliation: USC Viterbi School of Engineering
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Jon Tamir"
-  #   image:  tamirr.jpeg
-  #   affiliation: UT Austin
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Berkin Bilgic"
-  #   image:  berkin.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Yogesh Rathi"
-  #   image:  yogesh.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Borjan Gagoski"
-  #   image:  borjan.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Shohei Fujita"
-  #   image:  shohei.jpeg
-  #   affiliation: MGH Harvard
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Rasim Boyacioglu"
-  #   image:  rb.jpg
-  #   affiliation: Case Western Reserve University
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Georg Oeltzschner"
-  #   image:  go.jpg
-  #   affiliation: Johns Hopkins Medicine
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Krishna Nayak"
-  #   image:  kn.jpg
-  #   affiliation: USC Viterbi School of Engineering
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Matthias Günther"
-  #   image:  mgu.jpg
-  #   affiliation: Fraunhofer Institute for Digital Medicine
-  #   twitter: #
-  #   linkedin: #    
-
-  # - name: "E. Mark Haacke"
-  #   image:  mh.png
-  #   affiliation: SpinTech MRI
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Ahsan Javed"
-  #   image:  aj.jpeg
-  #   affiliation: National Institutes of Health
-  #   twitter: #
-  #   linkedin: #
-  # - name: "Andreia S.O. Gaspar"
-  #   image:  asog.jpg
-  #   affiliation: Universidade de Lisboa
-  #   twitter: #
-  #   linkedin: #
-
-
+  - name: "Elizabeth DuPre"
+    image:  dupre.jpg
+    affiliation: Stanford University
