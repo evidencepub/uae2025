@@ -1,6 +1,6 @@
 ---
 title: "About"
-bg: neuro
+bg: "#8a3939"
 color: clrnew
 fa-icon: info-circle
 iconclr: neuro

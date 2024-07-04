@@ -1,16 +1,19 @@
 people:
-  - name: "Agah Karakuzu"
-    image:  AgahKarakuzu.jpg
-    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
-    twitter: #
-    linkedin: #
-    researchgate: #
   - name: "Nikola Stikov"
     image:  NikolaStikov.jpg
     affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
     twitter: https://twitter.com/Stikov
     linkedin: #
     researchgate: #
+  - name: "Agah Karakuzu"
+    image:  AgahKarakuzu.jpg
+    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
+  - name: "Samir Das"
+    image:  das.jpg
+    affiliation: McGill University
+  - name: "Julie Boyle"
+    image:  boyle.jpg
+    affiliation: Universite de Montréal
   - name: "Pierre Lune Bellec"
     image:  bellec.jpg
     affiliation: Universite de Montréal
@@ -90,6 +93,9 @@ speakers:
     affiliation: McGill University
   - name: "J.B. Poline"
     image:  jbp.jpg
+    affiliation: McGill University
+  - name: "Samir Das"
+    image:  das.jpg
     affiliation: McGill University
   - name: "Agah Karakuzu"
     image:  AgahKarakuzu.jpg
