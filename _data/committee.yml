@@ -76,9 +76,6 @@ speakers:
     twitter: #
     linkedin: #
     researchgate: #
-  - name: "Sonja Topuzovska"
-    image:  topuz.jpg
-    affiliation: UKIM Skopje
   - name: "Aleksandar Skeparovski"
     image:  skeparov.jpg
     affiliation: UKIM Skopje
@@ -97,9 +94,12 @@ speakers:
   - name: "Samir Das"
     image:  das.jpg
     affiliation: McGill University
-  - name: "Agah Karakuzu"
-    image:  AgahKarakuzu.jpg
-    affiliation: École Polytechnique de Montréal
+  - name: "Mathieu Boudreau"
+    image:  MathieuBoudreau.jpg
+    affiliation: Polytechnique Montreal
   - name: "Elizabeth DuPre"
     image:  dupre.jpg
     affiliation: Stanford University
+  - name: "Agah Karakuzu"
+    image:  AgahKarakuzu.jpg
+    affiliation: École Polytechnique de Montréal

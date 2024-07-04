@@ -11,8 +11,8 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "NeuroLibre Day"
-keywords:    "MRI, hackathon, 2024, singapore, mrathon"
-description: "MRI hackathon."
+keywords:    "Reproducible publishing, NeuroLibre, Montreal"
+description: "Symposium"
 source_link: "https://github.com/neurolibre/day"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
