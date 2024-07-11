@@ -13,7 +13,7 @@ titleclr: neuro
 
 #### 27 September 2024
 
-<p style ="text-align: center; font-weight: bold; font-size:24px;">This symposium will coincide with the beta release of NeuroLibre, a preprint server for hosting reproducible research objects.</p>
+<p style ="text-align: center; font-weight: bold; font-size:24px;">This symposium will coincide with the beta release of NeuroLibre, an open-source server for hosting reproducible research objects.</p>
 
 <hr>
  <h3>Speakers</h3>
