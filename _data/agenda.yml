@@ -1,13 +1,13 @@
 saturday1:
   - title: "Introducing NeuroLibre"
-    time:  10h-12h
+    time:  9h30m-12h
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
     image: intro_neuro.png
-    text:  🟢 Strategic Roadmap - Past and present <br> 🟢 NeuroLibre Federation <br> 🟢 Governance and partnerships
+    text:  🟢 <b class="title-random">Welcome 9:30-9:45 </b> <br> <i class="speaker-random">Pierre Lune Bellec and Patrick Bermudez</i> <br> 🟢 <b class="title-random">Creating NeuroLibre 9:45-10:30</b> Agah Karakuzu, Elizabeth DuPre, and Samir Das <br> 🟠 <b  class="break-random">Coffee Break 9:45-10:30</b>
   - title: "Break"
     time:  12h-13h
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
-    image: food_neuro.png
+    image: coffee_break.png
     text:  ""
   - title: "Reproducible Publishing"
     time:  13h-15h
@@ -23,4 +23,9 @@ saturday1:
     time:  16h-17h
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
     image: meet_neuro.png
+    text:  🟢 Open floor
+  - title: "Reception"
+    time:  16h-17h
+    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    image: reception.png
     text:  🟢 Open floor

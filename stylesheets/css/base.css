@@ -378,3 +378,19 @@ span.lineno {
 	@media only screen and (min-width: 768px) and (max-width: 950px) {
 		#intro {background-size: contain; height: 600px;}
 	}
+
+.speaker-random {
+	font-size: medium;
+    font-style: italic;
+	color: aliceblue;
+}
+
+.title-random {
+    font-style: bold;
+	color: limegreen;
+}
+
+.break-random {
+    font-style: bold;
+	color: orange;
+}
