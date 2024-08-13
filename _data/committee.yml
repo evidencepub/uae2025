@@ -43,6 +43,9 @@ speakers:
     affiliation: University of Oxford
     twitter: #
     linkedin: #
+  - name: "Ariel Rokem"
+    image:  rokem.jpeg
+    affiliation: University of Washington
     researchgate: #
   - name: "Bas Rokers"
     image:  rokers.jpg
