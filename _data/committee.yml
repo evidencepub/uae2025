@@ -47,6 +47,14 @@ speakers:
     image:  rokem.jpeg
     affiliation: University of Washington
     researchgate: #
+  - name: "Mihaela Iordanova"
+    image:  mihaela.jpg
+    affiliation: Concordia University
+    researchgate: #
+  - name: "Chris Holdgraf"
+    image:  chold.jpeg
+    affiliation: Concordia University
+    researchgate: #
   - name: "Bas Rokers"
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
