@@ -90,6 +90,8 @@ $.extend($.easing,
 
 $(document).ready(function (){
 
+    $(".button-collapse").sideNav();
+    
     $('nav li a').navScroller();
 
     //section divider icon click gently scrolls to reveal the section
