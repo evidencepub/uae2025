@@ -17,32 +17,43 @@ $.extend($.easing,
     var navItems;
     var navs = {}, sections = {};
 
+    function getResponsiveOffset() {
+        var width = $(window).width();
+        if (width > 1024) {
+            return 170;  // Desktop offset
+        } else if (width > 768) {
+            return 120;  // Tablet offset
+        } else {
+            return 70;   // Mobile offset
+        }
+    }
+
     $.fn.navScroller = function(options) {
         settings = $.extend({
-            scrollToOffset: 170,
+            scrollToOffset: getResponsiveOffset(),
             scrollSpeed: 800,
             activateParentNode: true,
         }, options );
         navItems = this;
 
-        //attatch click listeners
-    	navItems.on('click', function(event){
-    		event.preventDefault();
+        // Attach click listeners
+        navItems.on('click', function(event){
+            event.preventDefault();
             var navID = $(this).attr("href").substring(1);
             disableScrollFn = true;
             activateNav(navID);
-            populateDestinations(); //recalculate these!
-        	$('html,body').animate({scrollTop: sections[navID] - settings.scrollToOffset},
-                settings.scrollSpeed, "easeInOutExpo", function(){
-                    disableScrollFn = false;
-                }
-            );
-    	});
+            populateDestinations(); // Recalculate these!
+            $('html,body').animate({
+                scrollTop: sections[navID] - settings.scrollToOffset
+            }, settings.scrollSpeed, "easeInOutExpo", function(){
+                disableScrollFn = false;
+            });
+        });
 
-        //populate lookup of clicable elements and destination sections
-        populateDestinations(); //should also be run on browser resize, btw
+        // Populate lookup of clickable elements and destination sections
+        populateDestinations();
 
-        // setup scroll listener
+        // Setup scroll listener
         $(document).scroll(function(){
             if (disableScrollFn) { return; }
             var page_height = $(window).height();
@@ -53,12 +64,18 @@ $.extend($.easing,
                 }
             }
         });
+
+        // Update the offset when the window is resized
+        $(window).resize(function() {
+            settings.scrollToOffset = getResponsiveOffset();
+            populateDestinations(); // Recalculate section positions on resize
+        });
     };
 
     function populateDestinations() {
         navItems.each(function(){
             var scrollID = $(this).attr('href').substring(1);
-            navs[scrollID] = (settings.activateParentNode)? this.parentNode : this;
+            navs[scrollID] = (settings.activateParentNode) ? this.parentNode : this;
             sections[scrollID] = $(document.getElementById(scrollID)).offset().top;
         });
     }
@@ -67,6 +84,7 @@ $.extend($.easing,
         for (nav in navs) { $(navs[nav]).removeClass('active'); }
         $(navs[navID]).addClass('active');
     }
+
 })( jQuery );
 
 
