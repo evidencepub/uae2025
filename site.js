@@ -88,49 +88,49 @@ $.extend($.easing,
 })( jQuery );
 
 
-$(document).ready(function (){
+$(document).ready(function () {
 
+    // Initialize the side navigation for mobile
     $(".button-collapse").sideNav();
-    
+
+    // Initialize navScroller for smooth scrolling in nav items
     $('nav li a').navScroller();
 
-    //section divider icon click gently scrolls to reveal the section
-	$(".sectiondivider").on('click', function(event) {
-    	$('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
-	});
+    // Section divider icon click gently scrolls to reveal the section
+    $(".sectiondivider").on('click', function(event) {
+        $('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
+    });
 
-    //links going to other sections nicely scroll
-	$(".container a").each(function(){
+    // Links going to other sections nicely scroll
+    $(".container a").each(function(){
         if ($(this).attr("href").charAt(0) == '#'){
             $(this).on('click', function(event) {
-        		event.preventDefault();
+                // No event.preventDefault() here
                 var target = $(event.target).closest("a");
-                var targetHight =  $(target.attr("href")).offset().top
-            	$('html,body').animate({scrollTop: targetHight - 170}, 800, "easeInOutExpo");
+                var targetHight =  $(target.attr("href")).offset().top;
+                $('html,body').animate({scrollTop: targetHight - 170}, 800, "easeInOutExpo");
             });
         }
-	});
-
-  $(".button-collapse").sideNav();
-
-  // Carrousel settings
-  $(document).ready(function(){
-    $('.partners').slick({
-      slidesToShow: 4,
-      slidesToScroll: 2,
-      autoplay: true,
-      arrows: true,
-      dots: true,
-      responsive: [
-      {
-        breakpoint: 976,
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 6
-        }
-      }]
     });
-  });
+
+    // Initialize carousel with Slick settings
+    $('.partners').slick({
+        slidesToShow: 4,
+        slidesToScroll: 2,
+        autoplay: true,
+        arrows: true,
+        dots: true,
+        responsive: [
+            {
+                breakpoint: 976,
+                settings: {
+                    slidesToShow: 4,
+                    slidesToScroll: 6
+                }
+            }
+        ]
+    });
+
 });
 
 
