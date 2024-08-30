@@ -30,8 +30,9 @@ speakers:
   - name: "Shigeki Aoki"
     image:  shigeki.jpg
     affiliation: Juntendo University Tokyo
-    twitter: #
-    linkedin: #
+  - name: "Masaya Takahashi"
+    image:  masaya.png
+    affiliation: Juntendo University Tokyo
   - name: "Biljana Angelova"
     image:  biljana.jpg
     affiliation: UKIM Skopje
@@ -61,8 +62,6 @@ speakers:
   - name: "Bas Rokers"
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
-    twitter: #
-    linkedin: #
     researchgate: #
   - name: "Peter Bandettini"
     image:  pband.jpg
@@ -82,9 +81,12 @@ speakers:
   - name: "Masaaki Hori"
     image:  hori.jpg
     affiliation: Toho University
-    twitter: #
-    linkedin: #
-    researchgate: #
+  - name: "Sun Zhe"
+    image:  sunzhe.jpg
+    affiliation: Juntendo University
+  - name: "Akifumi Hagiwara"
+    image:  akifumi.png
+    affiliation: Juntendo University
   - name: "Aleksandar Skeparovski"
     image:  skeparov.jpg
     affiliation: UKIM Skopje
