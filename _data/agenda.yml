@@ -1,6 +1,11 @@
 saturday1:
-  - title: "Introducing NeuroLibre"
+ - title: "Coffee"
     time: 9:00-9:30
+    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    image: coffee_break.png
+    text:  ""
+  - title: "Introducing NeuroLibre"
+    time:  9:30-10:30
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
     image: intro_neuro.png
     text:  ☘️ <b class="title-random">Welcome 9:00-9:30 </b> <br> <i class="speaker-random">Pierre Lune Bellec & Patrick Bermudez</i> <br><br> 🌱 <b class="title-random">Creating NeuroLibre 9:45-10:30</b> <br> <i class="speaker-random">Rachel Harding, Samir Das, & Agah Karakuzu,</i> <br><br>
@@ -10,12 +15,12 @@ saturday1:
     image: food_neuro.png
     text:  ""
   - title: "NeuroLibre Federation"
-    time: 11:00-12:30
+    time: 11:00-12:00
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
     image: intro_neuro.png
-    text:  🪴 <b class="title-random">NeuroLibre Federation 11:00-12:30 </b> <i class="speaker-random"> <br> Shigeki Aoki & Sun Zhe (Juntendo University, Japan) <br> Bas Rokers & Dimitri Novikov (NYU Abu Dhabi, UAE & NYU Langone, USA) <br>  Biljana Angelova & Ordan Chukaliev (UKIM, Macedonia)</i>
+    text:  🪴 <b class="title-random">NeuroLibre Federation 11:00-12:00 </b> <i class="speaker-random"> <br> Shigeki Aoki & Sun Zhe (Juntendo University, Japan) <br> Bas Rokers & Dimitri Novikov (NYU Abu Dhabi, UAE & NYU Langone, USA) <br>  Biljana Angelova & Ordan Chukaliev (UKIM, Macedonia)</i>
   - title: "Lunch"
-    time: 12:30-13:00
+    time: 12:00-13:00
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
     image: pizza.png
     text:  ""
