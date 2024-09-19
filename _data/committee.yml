@@ -30,9 +30,11 @@ speakers:
   - name: "Shigeki Aoki"
     image:  shigeki.jpg
     affiliation: Juntendo University Tokyo
-  - name: "Masaya Takahashi"
-    image:  masaya.png
-    affiliation: Juntendo University Tokyo
+  - name: "Peter Bandettini"
+    image:  pband.jpg
+    affiliation: National Institute of Mental Health
+    twitter: #
+    linkedin: #
   - name: "Biljana Angelova"
     image:  biljana.jpg
     affiliation: UKIM Skopje
@@ -47,11 +49,6 @@ speakers:
   - name: "Ariel Rokem"
     image:  rokem.jpeg
     affiliation: University of Washington
-    researchgate: #
-  - name: "Mihaela Iordanova"
-    image:  mihaela.jpg
-    affiliation: Concordia University
-    researchgate: #
   - name: "Chris Holdgraf"
     image:  chold.jpeg
     affiliation: 2i2c
@@ -62,12 +59,10 @@ speakers:
   - name: "Bas Rokers"
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
+  - name: "Dimitri Novikov"
+    image:  novikov.png
+    affiliation: NYU Langone Health
     researchgate: #
-  - name: "Peter Bandettini"
-    image:  pband.jpg
-    affiliation: National Institute of Mental Health
-    twitter: #
-    linkedin: #
     researchgate: #
   - name: "Ordan Chukaliev"
     image:  ordan.jpg
@@ -80,6 +75,9 @@ speakers:
     researchgate: #
   - name: "Masaaki Hori"
     image:  hori.jpg
+  - name: "Masaya Takahashi"
+    image:  masaya.png
+    affiliation: Juntendo University Tokyo
     affiliation: Toho University
   - name: "Sun Zhe"
     image:  sunzhe.jpeg
@@ -87,6 +85,9 @@ speakers:
   - name: "Akifumi Hagiwara"
     image:  akifumi.png
     affiliation: Juntendo University
+  - name: "Adrien Peyrache"
+    image:  peyrache_adrien.png
+    affiliation: McGill University
   - name: "Aleksandar Skeparovski"
     image:  skeparov.jpg
     affiliation: UKIM Skopje
