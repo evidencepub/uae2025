@@ -1,7 +1,6 @@
 saturday1:
   - title: "Coffee"
     time: 9:00-9:30
-    place: ""
     image: coffee_break.png
     text:  ""
   - title: "Introducing NeuroLibre"
