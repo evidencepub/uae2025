@@ -20,10 +20,11 @@ saturday1:
     image: pizza.png
     text:  ""
   - title: "Reproducible Academic Publishing"
+    time: 13:00-14:00
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
     image: rep_neuro.png
     text:  🌿 <b class="title-random">Introduction 13:00-14:00 </b> <br> <i class="speaker-random">Alan Evans & Nikola Stikov</i> <br> <i class="speaker-random">Chris Holdgraf (2i2c) <br> Ariel Rokem (U. Washington)</i>
-  -  title: "Break"
+  - title: "Break"
     time: 14:00-14:30
     place: Amphithéâtre Le Groupe Maurice du CRIUGM
     image: food_neuro.png
