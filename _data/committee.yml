@@ -46,9 +46,9 @@ speakers:
     affiliation: University of Oxford
     twitter: #
     linkedin: #
-  - name: "Ariel Rokem"
-    image:  rokem.jpeg
-    affiliation: University of Washington
+  - name: "Nikola Stikov"
+    image:  NikolaStikov.jpg
+    affiliation: École Polytechnique de Montréal
   - name: "Chris Holdgraf"
     image:  chold.jpeg
     affiliation: 2i2c
@@ -75,25 +75,28 @@ speakers:
     researchgate: #
   - name: "Masaaki Hori"
     image:  hori.jpg
+    affiliation: Toho University
   - name: "Masaya Takahashi"
     image:  masaya.png
     affiliation: Juntendo University Tokyo
-    affiliation: Toho University
   - name: "Sun Zhe"
     image:  sunzhe.jpeg
     affiliation: Juntendo University
   - name: "Akifumi Hagiwara"
     image:  akifumi.png
     affiliation: Juntendo University
+  - name: "Rachel Harding"
+    image:  rachel.jpg
+    affiliation: University of Toronto
   - name: "Adrien Peyrache"
     image:  peyrache_adrien.png
     affiliation: McGill University
   - name: "Aleksandar Skeparovski"
     image:  skeparov.jpg
     affiliation: UKIM Skopje
-  - name: "Nikola Stikov"
-    image:  NikolaStikov.jpg
-    affiliation: École Polytechnique de Montréal
+  - name: "Ariel Rokem"
+    image:  rokem.jpeg
+    affiliation: University of Washington
   - name: "Pierre Lune Bellec"
     image:  bellec.jpg
     affiliation: Universite de Montréal

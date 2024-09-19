@@ -1,55 +1,55 @@
 saturday1:
   - title: "Coffee"
     time: 9:00-9:30
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: coffee_break.png
     text:  ""
   - title: "Introducing NeuroLibre"
     time:  9:30-10:30
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: intro_neuro.png
-    text:  ☘️ <b class="title-random">Welcome 9:00-9:30 </b> <br> <i class="speaker-random">Pierre Lune Bellec & Patrick Bermudez</i> <br><br> 🌱 <b class="title-random">Creating NeuroLibre 9:45-10:30</b> <br> <i class="speaker-random">Rachel Harding, Samir Das, & Agah Karakuzu,</i> <br><br>
+    text:  ☘️ <b class="title-random">Welcome 9:30-9:45 </b> <br> <i class="speaker-random">Pierre Lune Bellec (McGill University, Canada) & Patrick Bermudez (U. Montreal, Canada)</i> <br><br> 🌱 <b class="title-random">Creating NeuroLibre 9:45-10:30</b> <br> <i class="speaker-random">Rachel Harding (University of Toronto, Canada), Samir Das (McGill University, Canada), & Agah Karakuzu (Polytechnique Montreal, Canada)</i> <br><br>
   - title: "Break"
     time:  10:30-11:00
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: food_neuro.png
     text:  ""
   - title: "NeuroLibre Federation"
     time: 11:00-12:00
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: intro_neuro.png
     text:  🪴 <b class="title-random">NeuroLibre Federation 11:00-12:00 </b> <i class="speaker-random"> <br> Shigeki Aoki & Sun Zhe (Juntendo University, Japan) <br> Bas Rokers & Dimitri Novikov (NYU Abu Dhabi, UAE & NYU Langone, USA) <br>  Biljana Angelova & Ordan Chukaliev (UKIM, Macedonia)</i>
   - title: "Lunch"
     time: 12:00-13:00
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: pizza.png
     text:  ""
   - title: "Reproducible Academic Publishing"
     time: 13:00-14:00
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: rep_neuro.png
-    text:  🌿 <b class="title-random">Introduction 13:00-14:00 </b> <br> <i class="speaker-random">Alan Evans & Nikola Stikov</i> <br> <i class="speaker-random">Chris Holdgraf (2i2c) <br> Ariel Rokem (U. Washington)</i>
+    text:  🌿 <b class="title-random">Introduction 13:00-14:00 </b> <br> <i class="speaker-random">Alan Evans (McGill University) & Nikola Stikov (Polytechnique Montreal)</i> <br> <i class="speaker-random">Chris Holdgraf (2i2c, USA) <br> Ariel Rokem (U. Washington, USA)</i>
   - title: "Break"
     time: 14:00-14:30
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: food_neuro.png
     text:  ""        
   - title: "Perspectives from Journals"
     time: 14:30-16:00
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: rep_neuro.png
     text:  📗 <b class="title-random">Perspectives from Journals 14:30-16:00 </b><br> <i class="speaker-random">Peter Bandettini (Aperture Neuro)</i> <br> <i class="speaker-random">Peter Jezzard & Mathieu Boudreau (Magn. Reson. Med.)</i> <br> <i class="speaker-random"> Maasaki Hori & Masaya Takashi & Akifumi Hagiwara (MRMS)</i> <br> <i class="speaker-random">Adrien Peyrache (eLife)</i> <br> <i class="speaker-random">Alain Dagher (Imaging Neuroscience)</i>
   - title: "Break"
     time: 16:00-16:30
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: food_neuro.png
     text:  ""        
   - title: "Townhall Meeting"
     time: 16:30-17:30
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: meet_neuro.png
     text:  🍃 Discussion moderated by Alan Evans
   - title: "Reception"
     time: 17:30-19:30
-    place: Amphithéâtre Le Groupe Maurice du CRIUGM
+    place: ""
     image: reception.png
