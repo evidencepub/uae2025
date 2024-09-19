@@ -2,7 +2,7 @@ saturday1:
   - title: "Coffee"
     time: 9:00-9:30
     image: coffee_break.png
-    text:  ""
+    text:  "All good things start with coffee!"
   - title: "Introducing NeuroLibre"
     time:  9:30-10:30
     place: ""
@@ -27,7 +27,7 @@ saturday1:
     time: 13:00-14:00
     place: ""
     image: rep_neuro.png
-    text:  🌿 <b class="title-random">Introduction 13:00-14:00 </b> <br> <i class="speaker-random">Alan Evans (McGill University) & Nikola Stikov (Polytechnique Montreal)</i> <br> <i class="speaker-random">Chris Holdgraf (2i2c, USA) <br> Ariel Rokem (U. Washington, USA)</i>
+    text:  🌿 <b class="title-random">Unmet needs 13:00-14:00 </b> <br> <i class="speaker-random">Alan Evans (McGill University) & Nikola Stikov (Polytechnique Montreal)</i> <br> <i class="speaker-random">Chris Holdgraf (2i2c, USA) <br> Ariel Rokem (U. Washington, USA)</i>
   - title: "Break"
     time: 14:00-14:30
     place: ""
