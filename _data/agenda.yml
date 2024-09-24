@@ -17,7 +17,7 @@ saturday1:
     time: 11:00-12:00
     place: ""
     image: intro_neuro.png
-    text:  🪴 <b class="title-random">NeuroLibre Federation 11:00-12:00 </b> <i class="speaker-random"> <br> Shigeki Aoki & Sun Zhe (Juntendo University, Japan) <br> Bas Rokers & Dimitri Novikov (NYU Abu Dhabi, UAE & NYU Langone, USA) <br>  Biljana Angelova & Ordan Chukaliev (UKIM, Macedonia)</i>
+    text:  🪴 <b class="title-random">NeuroLibre Federation 11:00-12:00 </b> <i class="speaker-random"> <br> Shigeki Aoki & Sun Zhe (Juntendo University, Japan) <br> Bas Rokers & Dimitry Novikov (NYU Abu Dhabi, UAE & NYU Langone, USA) <br>  Biljana Angelova & Ordan Chukaliev (UKIM, Macedonia)</i>
   - title: "Lunch"
     time: 12:00-13:00
     place: ""
@@ -37,7 +37,7 @@ saturday1:
     time: 14:30-16:00
     place: ""
     image: rep_neuro.png
-    text:  📗 <b class="title-random">Perspectives from Journals 14:30-16:00 </b><br> <i class="speaker-random">Peter Bandettini (Aperture Neuro)</i> <br> <i class="speaker-random">Peter Jezzard & Mathieu Boudreau (Magn. Reson. Med.)</i> <br> <i class="speaker-random"> Maasaki Hori & Masaya Takashi & Akifumi Hagiwara (MRMS)</i> <br> <i class="speaker-random">Adrien Peyrache (eLife)</i> <br> <i class="speaker-random">Alain Dagher (Imaging Neuroscience)</i>
+    text:  📗 <b class="title-random">Perspectives from Journals 14:30-16:00 </b><br> <i class="speaker-random">Peter Bandettini (Aperture Neuro)</i> <br> <i class="speaker-random">Peter Jezzard & Mathieu Boudreau (Magn. Reson. Med.)</i> <br> <i class="speaker-random"> Maasaki Hori & Masaya Takashi & Akifumi Hagiwara (MRMS)</i> <br> <i class="speaker-random">Adrien Peyrache (eLife)</i>
   - title: "Break"
     time: 16:00-16:30
     place: ""

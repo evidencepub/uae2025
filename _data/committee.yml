@@ -52,14 +52,10 @@ speakers:
   - name: "Chris Holdgraf"
     image:  chold.jpeg
     affiliation: 2i2c
-  - name: "Alain Dagher"
-    image:  dagher.jpg
-    affiliation: McGill University
-    researchgate: #
   - name: "Bas Rokers"
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
-  - name: "Dimitri Novikov"
+  - name: "Dimitry Novikov"
     image:  novikov.png
     affiliation: NYU Langone Health
     researchgate: #
@@ -103,18 +99,12 @@ speakers:
   - name: "Patrick Bermudez"
     image:  bermudez.jpg
     affiliation: McGill University
-  - name: "J.B. Poline"
-    image:  jbp.jpg
-    affiliation: McGill University
   - name: "Samir Das"
     image:  das.jpg
     affiliation: McGill University
   - name: "Mathieu Boudreau"
     image:  MathieuBoudreau.jpg
     affiliation: Polytechnique Montreal
-  - name: "Elizabeth DuPre"
-    image:  dupre.jpg
-    affiliation: Stanford University
   - name: "Agah Karakuzu"
     image:  AgahKarakuzu.jpg
     affiliation: École Polytechnique de Montréal
