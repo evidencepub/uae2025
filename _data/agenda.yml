@@ -7,7 +7,7 @@ saturday1:
     time:  9:30-10:30
     place: ""
     image: intro_neuro.png
-    text:  ☘️ <b class="title-random">Welcome 9:30-9:45 </b> <br> <i class="speaker-random">Pierre Lune Bellec (McGill University, Canada) & Patrick Bermudez (U. Montreal, Canada)</i> <br><br> 🌱 <b class="title-random">Creating NeuroLibre 9:45-10:30</b> <br> <i class="speaker-random">Rachel Harding (University of Toronto, Canada), Samir Das (McGill University, Canada), & Agah Karakuzu (Polytechnique Montreal, Canada)</i> <br><br>
+    text:  ☘️ <b class="title-random">Welcome 9:30-9:45 </b> <br> <i class="speaker-random">Pierre Lune Bellec (University of Montreal, Canada) & Patrick Bermudez (U. Montreal, Canada)</i> <br><br> 🌱 <b class="title-random">Creating NeuroLibre 9:45-10:30</b> <br> <i class="speaker-random">Rachel Harding (University of Toronto, Canada), Samir Das (McGill University, Canada), & Agah Karakuzu (Polytechnique Montreal, Canada)</i> <br><br>
   - title: "Break"
     time:  10:30-11:00
     place: ""
