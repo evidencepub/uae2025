@@ -10,10 +10,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "NeuroLibre Day"
+title:       "Evidence Day"
 keywords:    "Reproducible publishing, NeuroLibre, Montreal"
 description: "Symposium"
-source_link: "https://github.com/neurolibre/day"
+source_link: "https://github.com/evidencepub/uae2025"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
