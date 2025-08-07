@@ -11,7 +11,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Evidence Day"
-keywords:    "Reproducible publishing, NeuroLibre, Montreal"
+keywords:    "Reproducible publishing, Evidence, UAE"
 description: "Symposium"
 source_link: "https://github.com/evidencepub/uae2025"
 favicon:     "img/evidence_favicon.svg"
