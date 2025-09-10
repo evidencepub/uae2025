@@ -35,3 +35,26 @@ color: black;
 font-size: 1.5em;
 line-height: 1.5em;
 }
+
+.topic-label {
+    display: inline-block;
+    background-color: #deac3f; /* green background */
+    color: white; /* text color */
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px 16px;
+    margin: 8px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    transition: transform 0.2s;
+  }
+
+  .topic-label:hover {
+    transform: scale(1.05);
+  }
+
+  .topic-container {
+    text-align: center; /* centers all labels */
+    margin-top: 20px;
+  }
