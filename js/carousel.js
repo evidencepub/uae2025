@@ -7,4 +7,4 @@ function showNextImage() {
   images[current].classList.add('active');
 }
 
-setInterval(showNextImage, 3000);
+setInterval(showNextImage, 1000);
