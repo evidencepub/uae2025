@@ -1,25 +1,40 @@
 people:
   - name: "Nikola Stikov"
     image:  NikolaStikov.jpg
-    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
-    twitter: https://twitter.com/Stikov
-    linkedin: #
-    researchgate: #
+    affiliation: Polytechnique Montreal
+    url: https://www.polymtl.ca/expertises/en/stikov-nikola
   - name: "Agah Karakuzu"
     image:  AgahKarakuzu.jpg
-    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
-  - name: "Samir Das"
-    image:  das.jpg
-    affiliation: McGill University
-  - name: "Julie Boyle"
-    image:  boyle.jpg
-    affiliation: Universite de Montréal
-  - name: "Pierre Lune Bellec"
-    image:  bellec.jpg
-    affiliation: Universite de Montréal
+    affiliation: Polytechnique Montreal
+    url: https://agah.dev
+  - name: "Bas Rokers"
+    image:  rokers.jpg
+    affiliation: NYU Abu Dhabi
+    url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/bas-rokers.html
+  - name: "Kartik Sreenivasan"
+    image:  kartik.jpg
+    affiliation: NYU Abu Dhabi
+    url: https://nyuad.nyu.edu/en/academics/divisions/science/faculty/kartik-sreenivasan.html
+  - name: "Dmitry Novikov"
+    image:  novikov.png
+    affiliation: NYU Langone Health
+    url: https://med.nyu.edu/faculty/dmitry-novikov
+  - name: "Rowan Cockett"
+    image:  rowan.jpg
+    affiliation: Curvenote and CSF
+    url: https://row1.ca/
   - name: "Patrick Bermudez"
     image:  bermudez.jpg
     affiliation: McGill University
+    url: https://www.researchgate.net/profile/Patrick-Bermudez
+  - name: "Samir Das"
+    image:  das.jpg
+    affiliation: McGill University
+    url: https://www.bic.mni.mcgill.ca/~samir/
+  - name: "Lune Bellec"
+    image:  bellec.jpg
+    affiliation: Universite de Montréal
+    url: https://mila.quebec/en/directory/lune-bellec
 speakers:
   - name: "Alan Evans"
     image:  evans.jpg
@@ -55,11 +70,6 @@ speakers:
   - name: "Bas Rokers"
     image:  rokers.jpg
     affiliation: NYU Abu Dhabi
-  - name: "Dmitry Novikov"
-    image:  novikov.png
-    affiliation: NYU Langone Health
-    researchgate: #
-    researchgate: #
   - name: "Ordan Chukaliev"
     image:  ordan.jpg
     affiliation: UKIM Skopje
@@ -99,9 +109,11 @@ speakers:
   - name: "Patrick Bermudez"
     image:  bermudez.jpg
     affiliation: McGill University
+    
   - name: "Samir Das"
     image:  das.jpg
     affiliation: McGill University
+    
   - name: "Mathieu Boudreau"
     image:  MathieuBoudreau.jpg
     affiliation: Polytechnique Montreal
