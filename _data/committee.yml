@@ -35,6 +35,9 @@ people:
     image:  bellec.jpg
     affiliation: Universite de Montréal
     url: https://mila.quebec/en/directory/lune-bellec
+  - name: "Morane Bienvenu"
+    image:  morane.png
+    affiliation: Polytechnique Montreal
 speakers:
   - name: "Alan Evans"
     image:  evans.jpg
