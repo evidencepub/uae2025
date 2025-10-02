@@ -1,6 +1,6 @@
 people:
   - name: "Nikola Stikov"
-    image:  NikolaStikov.jpg
+    image:  nstik.jpg
     affiliation: Polytechnique Montreal
     url: https://www.polymtl.ca/expertises/en/stikov-nikola
   - name: "Agah Karakuzu"
@@ -19,14 +19,26 @@ people:
     image:  novikov.png
     affiliation: NYU Langone Health
     url: https://med.nyu.edu/faculty/dmitry-novikov
+  - name: "Shigeki Aoki"
+    image:  shigeki.jpg
+    affiliation: Juntendo University Tokyo
+    url: https://en.juntendo.ac.jp/research/researcher-profiles/aoki_shigeki.html
   - name: "Rowan Cockett"
     image:  rowan.jpg
     affiliation: Curvenote and CSF
     url: https://row1.ca/
+  - name: "Ordan Chukaliev"
+    image:  ordan.jpg
+    affiliation: UKIM Skopje
+    url: https://www.researchgate.net/profile/Ordan-Chukaliev
   - name: "Patrick Bermudez"
     image:  bermudez.jpg
     affiliation: McGill University
     url: https://www.researchgate.net/profile/Patrick-Bermudez
+  - name: "Mathieu Boudreau"
+    image:  MathieuBoudreau.jpg
+    affiliation: Polytechnique Montreal
+    url: https://github.com/mathieuboudreau
   - name: "Samir Das"
     image:  das.jpg
     affiliation: McGill University
@@ -117,9 +129,7 @@ speakers:
     image:  das.jpg
     affiliation: McGill University
     
-  - name: "Mathieu Boudreau"
-    image:  MathieuBoudreau.jpg
-    affiliation: Polytechnique Montreal
+
   - name: "Agah Karakuzu"
     image:  AgahKarakuzu.jpg
     affiliation: École Polytechnique de Montréal
