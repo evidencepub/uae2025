@@ -93,8 +93,8 @@ $(document).ready(function () {
     // Initialize the side navigation for mobile
     $(".button-collapse").sideNav();
 
-    // Initialize navScroller for smooth scrolling in nav items
-    $('nav li a').navScroller();
+    // Initialize navScroller for smooth scrolling in nav items (exclude external links)
+    $('nav li a').not('[target="_blank"]').navScroller();
 
     // Section divider icon click gently scrolls to reveal the section
     $(".sectiondivider").on('click', function(event) {
