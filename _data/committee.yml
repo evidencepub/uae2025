@@ -47,6 +47,12 @@ people:
     image:  bellec.jpg
     affiliation: Universite de Montréal
     url: https://mila.quebec/en/directory/lune-bellec
+  - name: "Biljana Angelova"
+    image:  biljana.jpg
+    affiliation: UKIM Skopje
+  - name: "Valentina Gecevska"
+    image:  gecevska.jpg
+    affiliation: UKIM Skopje
   - name: "Morane Bienvenu"
     image: morane.png
     affiliation: Polytechnique Montreal
