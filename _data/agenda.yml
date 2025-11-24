@@ -1,54 +1,47 @@
 saturday1:
-  - title: "Coffee"
+  - title: "Pleanary talk by John P.A. Ioannidis"
     time: 9:00-9:30
-    image: coffee_break.png
-    text:  "All good things start with coffee!"
-  - title: "Introducing NeuroLibre"
-    time:  9:30-10:30
+    image: john_talk.png
+    text:  <b class='title-random'>🏅 Reproducible and useful research in the AI era</b><p class='break-random'> <br> John Ioannidis is a Greek-American physician, scientist, and writer, as well as a professor at Stanford University. His work focuses on meta-research, the study of how science is conducted. He is also known for authoring one of the most influential papers in modern science, 'Why Most Research Findings Are False'.</p>
+  - title: "Pleanary talk by Alan C. Evans"
+    time:  9:30-10:00
     place: ""
-    image: intro_neuro.png
-    text:  ☘️ <b class="title-random">Welcome 9:30-9:45 </b> <br> <i class="speaker-random">Pierre Lune Bellec (University of Montreal, Canada) & Patrick Bermudez (U. Montreal, Canada)</i> <br><br> 🌱 <b class="title-random">Creating NeuroLibre 9:45-10:30</b> <br> <i class="speaker-random">Rachel Harding (University of Toronto, Canada), Samir Das (McGill University, Canada), & Agah Karakuzu (Polytechnique Montreal, Canada)</i> <br><br>
-  - title: "Break"
-    time:  10:30-11:00
+    image: alan_talk.png
+    text:  <b class='title-random'>🏅 A global infrastructure for data democratization</b><p class='break-random'> <br> Alan Charles Evans is a Welsh-born Canadian neuroscientist who is a Distinguished James McGill Professor of Neurology and Neurosurgery, Psychiatry and Biomedical Engineering, and holds the Victor Dahdaleh Chair in Neurosciences at McGill University.</p>
+  - title: "Intermission"
+    time:  10:00-10:30
     place: ""
-    image: food_neuro.png
+    image: evi_break.png
     text:  ""
-  - title: "NeuroLibre Federation"
-    time: 11:00-12:00
+  - title: "Evidence team: Patrick Bermudez"
+    time: 10:30-11:00
     place: ""
-    image: intro_neuro.png
-    text:  🪴 <b class="title-random">NeuroLibre Federation 11:00-12:00 </b> <i class="speaker-random"> <br> Shigeki Aoki & Sun Zhe (Juntendo University, Japan) <br> Bas Rokers & Dmitry Novikov (NYU Abu Dhabi, UAE & NYU Langone, USA) <br>  Biljana Angelova & Ordan Chukaliev (UKIM, North Macedonia)</i>
-  - title: "Lunch"
-    time: 12:00-13:00
+    image: patrick_talk.png
+    text:  <b class="title-random">🍁 Evidence governance </b><p class='break-random'> <br> Patrick Bermudez is the executive director of Evidence. His talk will address how to build a sustainable, community-driven governance structure for the platform.</p>
+  - title: "Evidence team: Agah Karakuzu"
+    time: 11:00-11:30
     place: ""
-    image: pizza.png
+    image: agah_talk.png
+    text:  <b class="title-random">💻 Building evidence </b><p class="break-random"><br>Agah Karakuzu leads the Evidence development team. His talk will highlight the platform’s latest advancements within a rapidly evolving AI landscape.</p>
+  - title: "Lunch Break"
+    time: 11:30-13:00
+    place: ""
+    image: evi_break.png
     text:  ""
-  - title: "Reproducible Academic Publishing"
-    time: 13:00-14:00
+  - title: "Pleanary talk by Cesar Hidalgo"
+    time: 13:00-13:30
     place: ""
-    image: rep_neuro.png
-    text:  🌿 <b class="title-random">Unmet needs 13:00-14:00 </b> <br> <i class="speaker-random">Alan Evans (McGill University) & Nikola Stikov (Polytechnique Montreal)</i> <br> <i class="speaker-random">Chris Holdgraf (2i2c, USA) <br> Ariel Rokem (U. Washington, USA)</i>
-  - title: "Break"
-    time: 14:00-14:30
-    place: ""
-    image: food_neuro.png
-    text:  ""        
-  - title: "Perspectives from Journals"
-    time: 14:30-16:00
-    place: ""
-    image: rep_neuro.png
-    text:  📗 <b class="title-random">Perspectives from Journals 14:30-16:00 </b><br> <i class="speaker-random">Peter Bandettini (Aperture Neuro)</i> <br> <i class="speaker-random">Peter Jezzard & Mathieu Boudreau (Magn. Reson. Med.)</i> <br> <i class="speaker-random"> Maasaki Hori & Masaya Takashi & Akifumi Hagiwara (MRMS)</i> <br> <i class="speaker-random">Adrien Peyrache (eLife)</i>
-  - title: "Break"
-    time: 16:00-16:30
-    place: ""
-    image: food_neuro.png
-    text:  ""        
+    image: hidalgo_talk.png
+    text:  🌿 <b class="title-random">Understanding scientific impact beyond rankings </b><p class="break-random"><br>César A. Hidalgo is a Chilean-Spanish-American scholar known for his contributions to economic complexity and for his applied work on data visualization and artificial intelligence. Hidalgo is a tenured professor at the Toulouse School of Economics’ (TSE) Department of Social and Behavioral Sciences</p>
+  - title: "Lightning Talks"
+    time: 13:30-14:00
+    image: evi_break.png
+    text:  <p class='break-random'><br>A series of five-minute talks by experts and builders shaping the next-generation publishing platform ecosystem.</p>
   - title: "Townhall Meeting"
-    time: 16:30-17:30
+    time: 14:00-16:00
     place: ""
-    image: meet_neuro.png
-    text:  🍃 Discussion moderated by Alan Evans
-  - title: "Reception"
-    time: 17:30-19:30
-    place: ""
-    image: reception.png
+    image: 6.png
+    text:  Discussion moderated by Nikola Stikov
+  - title: "Social Gathering"
+    time: 21:00-23:00
+    image: 7.png

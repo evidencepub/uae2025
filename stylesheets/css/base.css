@@ -387,11 +387,12 @@ span.lineno {
 
 .title-random {
     font-style: bold;
-	color: limegreen;
+	color: #37cae2
 }
 
 .break-random {
     font-style: bold;
-	color: orange;
+	font-size: 1.2em !important;
+	color: #fc953b;
 }
   
