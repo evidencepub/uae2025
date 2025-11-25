@@ -8,11 +8,11 @@ saturday1:
     place: ""
     image: alan_talk.png
     text:  <b class='title-random'>🏅 A global infrastructure for data democratization</b><p class='break-random'> <br> Alan Charles Evans is a Welsh-born Canadian neuroscientist who is a Distinguished James McGill Professor of Neurology and Neurosurgery, Psychiatry and Biomedical Engineering, and holds the Victor Dahdaleh Chair in Neurosciences at McGill University.</p>
-  - title: "Intermission"
+  - title: "Coffee Break"
     time:  10:00-10:30
     place: ""
     image: evi_cafe.png
-    text:  ""
+    text:  <p class='break-random'><br>Time for a peer-reviewed caffeine intervention. Refuel before the next round of evidence.</p>
   - title: "Evidence team: Patrick Bermudez"
     time: 10:30-11:00
     place: ""
@@ -27,7 +27,7 @@ saturday1:
     time: 11:30-13:00
     place: ""
     image: evi_food.png
-    text:  ""
+    text:  <p class='break-random'><br>Please update your biological runtime with carbs. Failure to patch may cause spontaneous segmentation faults.</p>
   - title: "Plenary talk by Cesar Hidalgo"
     time: 13:00-13:30
     place: ""
@@ -43,5 +43,6 @@ saturday1:
     place: ""
     image: nikola_talk.png
   - title: "Social Gathering"
+    text: <p class='break-random'><br>Initiating peer-to-peer human networking protocol. No API keys required.</p>
     time: 21:00-23:00
     image: 7.png
