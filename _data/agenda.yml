@@ -32,13 +32,13 @@ saturday1:
     time: 13:00-13:30
     place: ""
     image: hidalgo_talk.png
-    text:  🌿 <b class="title-random">Understanding scientific impact beyond rankings </b><p class="break-random"><br>César A. Hidalgo is a Chilean-Spanish-American scholar known for his contributions to economic complexity and for his applied work on data visualization and artificial intelligence. Hidalgo is a tenured professor at the Toulouse School of Economics’ (TSE) Department of Social and Behavioral Sciences</p>
+    text:  <b class="title-random">🏅 Understanding scientific impact beyond rankings </b><p class="break-random"><br>César A. Hidalgo is a Chilean-Spanish-American scholar known for his contributions to economic complexity and for his applied work on data visualization and artificial intelligence. Hidalgo is a tenured professor at the Toulouse School of Economics’ (TSE) Department of Social and Behavioral Sciences</p>
   - title: "Lightning Talks"
     time: 13:30-14:00
     image: evi_light.png
     text:  <p class='break-random'><br>A series of five-minute talks by experts and builders shaping the next-generation publishing platform ecosystem.</p>
   - title: Townhall Meeting with Nikola Stikov
-    text: <b class='title-random'>Evidence Chair </b><p class='break-random'><br>Nikola Stikov is a professor of biomedical engineering, a researcher at the Montreal Heart Institute, and co-director of NeuroPoly, the Neuroimaging Research Laboratory at Polytechnique Montréal. He will lead this town hall meeting, which will address key issues related to Evidence’s long-term success and maintainability.</p>
+    text: <b class='title-random'>⎈ Evidence Chair </b><p class='break-random'><br>Nikola Stikov is a professor of biomedical engineering, a researcher at the Montreal Heart Institute, and co-director of NeuroPoly, the Neuroimaging Research Laboratory at Polytechnique Montréal. He will lead this town hall meeting, which will address key issues related to Evidence’s long-term success and maintainability.</p>
     time: 14:00-16:00
     place: ""
     image: nikola_talk.png
