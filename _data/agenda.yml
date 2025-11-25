@@ -1,9 +1,9 @@
 saturday1:
-  - title: "Pleanary talk by John P.A. Ioannidis"
+  - title: "Plenary talk by John P.A. Ioannidis"
     time: 9:00-9:30
     image: john_talk.png
     text:  <b class='title-random'>🏅 Reproducible and useful research in the AI era</b><p class='break-random'> <br> John Ioannidis is a Greek-American physician, scientist, and writer, as well as a professor at Stanford University. His work focuses on meta-research, the study of how science is conducted. He is also known for authoring one of the most influential papers in modern science, 'Why Most Research Findings Are False'.</p>
-  - title: "Pleanary talk by Alan C. Evans"
+  - title: "Plenary talk by Alan C. Evans"
     time:  9:30-10:00
     place: ""
     image: alan_talk.png
@@ -11,37 +11,37 @@ saturday1:
   - title: "Intermission"
     time:  10:00-10:30
     place: ""
-    image: evi_break.png
+    image: evi_cafe.png
     text:  ""
   - title: "Evidence team: Patrick Bermudez"
     time: 10:30-11:00
     place: ""
     image: patrick_talk.png
-    text:  <b class="title-random">🍁 Evidence governance </b><p class='break-random'> <br> Patrick Bermudez is the executive director of Evidence. His talk will address how to build a sustainable, community-driven governance structure for the platform.</p>
+    text:  <b class="title-random">🍁 Evidence governance </b><p class='break-random'> <br> Patrick Bermudez is the executive director of the Canadian Open Neuroscience Platform (CONP). His talk will address how to build a sustainable, community-driven governance structure for the platform.</p>
   - title: "Evidence team: Agah Karakuzu"
     time: 11:00-11:30
     place: ""
     image: agah_talk.png
-    text:  <b class="title-random">💻 Building evidence </b><p class="break-random"><br>Agah Karakuzu leads the Evidence development team. His talk will highlight the platform’s latest advancements within a rapidly evolving AI landscape.</p>
+    text:  "<b class='title-random'>💻 Building evidence </b><p class='break-random'><br>Agah Karakuzu serves as the principal engineer and technical lead for Evidence, guiding its architecture and development. His talk will explore its newest advances in response to the accelerating pace of AI: the woven literature.</p>"
   - title: "Lunch Break"
     time: 11:30-13:00
     place: ""
-    image: evi_break.png
+    image: evi_food.png
     text:  ""
-  - title: "Pleanary talk by Cesar Hidalgo"
+  - title: "Plenary talk by Cesar Hidalgo"
     time: 13:00-13:30
     place: ""
     image: hidalgo_talk.png
     text:  🌿 <b class="title-random">Understanding scientific impact beyond rankings </b><p class="break-random"><br>César A. Hidalgo is a Chilean-Spanish-American scholar known for his contributions to economic complexity and for his applied work on data visualization and artificial intelligence. Hidalgo is a tenured professor at the Toulouse School of Economics’ (TSE) Department of Social and Behavioral Sciences</p>
   - title: "Lightning Talks"
     time: 13:30-14:00
-    image: evi_break.png
+    image: evi_light.png
     text:  <p class='break-random'><br>A series of five-minute talks by experts and builders shaping the next-generation publishing platform ecosystem.</p>
-  - title: "Townhall Meeting"
+  - title: Townhall Meeting with Nikola Stikov
+    text: <p class='break-random'><br>Dr. Nikola Stikov is a professor of biomedical engineering, a researcher at the Montreal Heart Institute, and co-director of NeuroPoly, the Neuroimaging Research Laboratory at Polytechnique Montréal. He will lead this town hall meeting, which will address key issues related to Evidence’s long-term success and maintainability.</p>
     time: 14:00-16:00
     place: ""
-    image: 6.png
-    text:  Discussion moderated by Nikola Stikov
+    image: nikola_talk.png
   - title: "Social Gathering"
     time: 21:00-23:00
     image: 7.png
