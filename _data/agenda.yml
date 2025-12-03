@@ -17,7 +17,7 @@ saturday1:
     time: 10:30-11:00
     place: ""
     image: patrick_talk.png
-    text:  <b class="title-random">🍁 Evidence governance </b><p class='break-random'> <br> Patrick Bermudez is the executive director of the Canadian Open Neuroscience Platform (CONP). His talk will address how to build a sustainable, community-driven governance structure for the platform.</p>
+    text:  "<b class='title-random'>🍁 Evidence & Open Publishing: Scientific principles in action </b><p class='break-random'> <br> Patrick Bermudez is the executive director of the Canadian Open Neuroscience Platform (CONP). His talk will situate Evidence in the Open Science landscape.</p>"
   - title: "Evidence team: Agah Karakuzu"
     time: 11:00-11:30
     place: ""
